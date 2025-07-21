@@ -4,6 +4,7 @@
 - Environment: Development
 - Debug Mode: Enabled
 - API Endpoint: http://localhost:3000
+- Max Request Timeout: 30s (HOTFIX: Prevent server crashes)
 
 ## Features
 - Feature 1: Active
