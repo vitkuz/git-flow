@@ -7,6 +7,8 @@
 - Max Request Timeout: 30s (HOTFIX: Prevent server crashes)
 - Cache TTL: 3600s (HOTFIX: Performance optimization)
 - Connection Pool Size: 100 (HOTFIX: Handle high load)
+- DB Retry Attempts: 3 (HOTFIX: Database stability)
+- DB Retry Delay: 1000ms (HOTFIX: Database stability)
 
 ## Features
 - Feature 1: Active
